@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="redist">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/redist" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/redist" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/redist" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/redist" recursive="false" type="SOURCES" />
+  </library>
+</component>
